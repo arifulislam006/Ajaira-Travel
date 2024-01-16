@@ -1,0 +1,6 @@
+@media screen and (max-width: 676px);
+{
+    .photosection h1
+        text-align: center;
+        padding-top: 80px;
+}
